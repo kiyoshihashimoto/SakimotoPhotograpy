@@ -6,6 +6,6 @@ $('#view-work').on('click', function() {
         {
             scrollTop: images
         },
-        900
+        750
     );
 });
